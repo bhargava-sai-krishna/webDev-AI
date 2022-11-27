@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+   <body>
+      <h1>the test</h1>
+      <p>{{ name }}</p>
+      <img src="data:image/png;base64,{{ plot_url }}" alt="Chart">
+      <br>
+      <img src="data:image/png;base64,{{ plot_url2 }}" alt="Chart">
+      <br><hr>
+      <p>score<br></p>
+      <div>
+         {% for i in score %}
+         <p>{{ i }} <br></p>
+         {% endfor %}
+      </div>
+   </body>
+</html>
