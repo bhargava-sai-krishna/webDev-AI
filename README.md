@@ -20,3 +20,35 @@ Learning Matplotlib and seaborn libraries to create required visualizations
 Understanding flask framework in order to link it to a webpage 
 
 Learning how to use person coreleation constant how to implenet it in code 
+
+## Required packages for installation
+```python
+pip install numpy
+```
+
+```python
+pip install pandas
+```
+
+```python
+pip install matplotlib
+```
+
+```python
+pip install -U scikit-learn
+```
+
+```python
+pip install seaborn
+```
+
+```python
+pip install flask
+```
+
+## Sample images
+
+![image](https://user-images.githubusercontent.com/100348267/229528227-b9f1b24a-6d76-4ca9-ba6e-1fc4b4aa7bce.png)
+
+
+![image](https://user-images.githubusercontent.com/100348267/229528544-3ccdb6b5-a705-4718-994c-ce407a34ceb5.png)
